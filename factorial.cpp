@@ -3,10 +3,9 @@
 using namespace std;
 
 int main(){
-    cout<<"Some text";
-
-    int a = 6;
-    int b = 4;
+    int a = 0;
+    float b = 0;
+	cout<<"git";
     cout<<"Hello world";
     
 	return 0;
